@@ -2,7 +2,7 @@
 # Enschede Roleplay | Hard RP
 *Laatste update: 14 mei 2026*
 
-Direct link: https://github.com/Faze-1/Enschede-Roleplay-Hard-RP
+Direct link: <https://github.com/Faze-1/Enschede-Roleplay-Hard-RP/tree/main>
 
 ## Inleiding
 Deze APV is van toepassing binnen Enschede Roleplay| Hard RP .
